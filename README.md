@@ -4,6 +4,7 @@ This project leverages computer vision techniques to capture human motion from v
 
 ## DEMO VIDEO:
 Video 1: https://drive.google.com/file/d/12v8SinpwfkfsJHsPan810_8YDsF4_M3d/view?usp=sharing
+
 Video 2: https://drive.google.com/file/d/1c_iJ1rDHZwN2nzNupEyhyPyNUBgD8_tu/view?usp=sharing
 
 ## Features
