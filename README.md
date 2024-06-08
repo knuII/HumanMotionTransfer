@@ -2,6 +2,10 @@
 
 This project leverages computer vision techniques to capture human motion from video and transfer it to a 3D character in Unity. The system uses MediaPipe for real-time body landmark detection and maps the detected motion data to animate a character rig in Unity.
 
+## DEMO VIDEO:
+Video 1: https://drive.google.com/file/d/12v8SinpwfkfsJHsPan810_8YDsF4_M3d/view?usp=sharing
+Video 2: https://drive.google.com/file/d/1c_iJ1rDHZwN2nzNupEyhyPyNUBgD8_tu/view?usp=sharing
+
 ## Features
 
 - **Real-Time Motion Capture**: Utilizes MediaPipe's BlazePose model to detect and track 33 body landmarks from video frames.
